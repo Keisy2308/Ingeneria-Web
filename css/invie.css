@@ -1,0 +1,22 @@
+body {
+  font-family: 'Comic San MS', sans-serif;
+  margin: 0;
+}
+.portada {
+  background-image: url('../images/background.png');
+  color: white;
+}
+.contenedor{
+  width: 800px;
+  margin:auto;
+}
+button{
+  border-radius: 5px;
+  border: none;
+  background: #fd324e;
+  color:white;
+}
+.title-a{
+  border: 2px solid;
+
+}
